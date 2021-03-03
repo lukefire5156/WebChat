@@ -1,0 +1,25 @@
+.form-control{
+    background-color: #bc6ff1 !important;
+    color: white !important;
+}
+
+h1{
+    color: white !important;
+}
+
+::-webkit-input-placeholder { /* Edge */
+    color: white !important;
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer */
+    color: white !important;
+  }
+  
+  ::placeholder {
+    color: white !important;
+  }
+
+  .card{
+    background-color: #272121 !important;
+    color: white !important;
+  }
